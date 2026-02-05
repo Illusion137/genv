@@ -5,7 +5,7 @@
 ```bash
 export PATH="$PATH:/.../genv/"
 ```
-## Running
+## Usage
 After installation run with:
 #### uses .env at working directory
 ```bash
